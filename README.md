@@ -12,7 +12,7 @@ A react-based photo gallery that displays photos. users can filter photos by cat
 1. **Clone the repository**
  ```bash
  git clone
- https://github.com/laroche237/galerie-photo-app-react.git
+https://github.com/laroche237/photo-gallery-react-app.git
  cd galerie-photo
  npm install
  npm start
